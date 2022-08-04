@@ -1,0 +1,11 @@
+Observations:
+
+1)	Based on the bar charts the drugs Capomulin & Ramicane are far more successful than their competitors. 
+This is notable by having a low mean and significantly lower variance showing it is consistently more effective at tumour development.
+
+2)	The effectiveness of taking Capomulin increases over a longer period.
+In the line plot graph of mouse s185 tumour volume over time it shows at day 1 having a tumour volume of 45mm3 to less than 25mm3 after 40 days.
+
+3)	A large factor in the effectiveness of Capomulin is weight.
+On average the heavier the mouse is the higher tumour volume occurred. 
+This is evident in the scatterplot with a linear regression line exponentially increasing the heavier the mouse is.
